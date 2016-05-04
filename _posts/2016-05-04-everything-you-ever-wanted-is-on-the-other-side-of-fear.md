@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-04T01:26:23.808Z'
-dateModified: '2016-05-04T01:26:03.917Z'
+datePublished: '2016-05-04T01:39:39.389Z'
+dateModified: '2016-05-04T01:26:32.017Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-04-everything-you-ever-wanted-is-on-the-other-side-of-fear.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-04-everything-you-ever-wanted-is-on-the-other-side-of-fear.md
-published: true
 url: everything-you-ever-wanted-is-on-the-other-side-of-fear/index.html
 _type: Article
 
